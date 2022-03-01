@@ -8,12 +8,6 @@
 MarikoSakuragi/MarikoSakuragi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  gem install bundler jekyll
 
-  jekyll new my-awesome-site
-
-  cd my-awesome-site
-
-  bundle exec jekyll serve
-
-# => Now browse to http://localhost:4000
+$ jekyll s --drafts
+Make sure that you can do anything
