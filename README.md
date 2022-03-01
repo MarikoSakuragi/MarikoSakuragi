@@ -9,5 +9,8 @@ MarikoSakuragi/MarikoSakuragi is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-$ jekyll s --drafts
-Make sure that you can do anything
+
+jekyll command [argument] [option] [argument_to_option]
+Examples:
+    jekyll new site/ --blank
+    jekyll serve --config _alternative_config.yml
